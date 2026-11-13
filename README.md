@@ -34,7 +34,7 @@
 
 <div align="center">
   <img
-    src="homelander.gif"
+    src="homelander-better.gif"
     alt="Homelander: I'm better. I am better!"
     width="430"
   />
